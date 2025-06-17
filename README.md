@@ -4,9 +4,9 @@ Repositório com listas categorizadas de domínios maliciosos, indesejados ou de
 
 ## 🧱 Categorias disponíveis
 
--
 - apostas.txt — domínios relacionados a jogos de azar
-- redes-sociais.txt — redes sociais e apps viciantes
+- redes-sociais.txt — redes sociais (Facebook,Instagram, x )
+- videoscurtos.txt - (TikTok,Kwai, triller, Likee, Bytedance)
 
 
 ## 💾 Como usar
