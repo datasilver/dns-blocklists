@@ -7,7 +7,8 @@ Repositório com listas categorizadas de domínios maliciosos, indesejados ou de
 - apostas.txt — domínios relacionados a jogos de azar
 - redes-sociais.txt — redes sociais (Facebook,Instagram, x )
 - videoscurtos.txt - (TikTok,Kwai, triller, Likee, Bytedance)
-
+- youtube.txt - todas as plataformas e apps
+- streaming.txt - amazon prime , hbo, netflix e etc
 
 ## 💾 Como usar
 
