@@ -1,0 +1,80 @@
+# Amazon Prime Video
+amazonvideo.com
+primevideo.com
+prime-video.com
+primevideo.cc
+primevideo.info
+aiv-cdn.net
+pv-cdn.net
+aiv-delivery.net
+media-amazon.com
+atv-ps.amazon.com
+ssl-images-amazon.com
+# Netflix
+netflix.com
+nflxext.com
+nflximg.net
+nflximg.com
+nflxsearch.net
+nflxso.net
+nflxvideo.net
+# HBO Max / Max
+max.com
+hbomax.com
+hbo.com
+hbonow.com
+hbogo.com
+hbogoasia.com
+hboasia.com
+cinemax.com
+maxgo.com
+discomax.com
+warnermediacdn.com
+# Disney+
+disneyplus.com
+disney-plus.net
+dssott.com
+dssedge.com
+bamgrid.com
+cdn.registerdisney.go.com
+# Star+
+starplus.com
+starott.com
+# Globoplay
+globoplay.globo.com
+horizon.globo.com
+horizon-track.globo.com
+cloud-jarvis.globo.com
+# Paramount+
+paramountplus.com
+cbs.com
+cbsnews.com
+cbsi.com
+cbsivideo.com
+cbsaavideo.com
+cbsi.video
+cbsistatic.com
+pplusstatic.com
+# DAZN
+dazn.com
+dazn-api.com
+dazndn.com
+daznservices.com
+indazn.com
+indaznlab.com
+# Apple TV+ / Music / iTunes
+tv.apple.com
+music.apple.com
+itunes.apple.com
+apple.com
+apple-cloudkit.com
+icloud.com
+# Pluto TV
+pluto.tv
+www.pluto.tv
+plutotv.net
+plutotv.com
+# Twitch
+twitch.tv
+player.twitch.tv
+ttvnw.net
