@@ -18,6 +18,12 @@ nflximg.com
 nflxsearch.net
 nflxso.net
 nflxvideo.net
+ipv4-c002-udi003-algar-isp.1.oca.nflxvideo.net
+ipv4-c003-udi004-algar-isp.1.oca.nflxvideo.net
+ipv4-c001-bat001-algar-isp.1.oca.nflxvideo.net
+ipv4-c010-rao001-algar-isp.1.oca.nflxvideo.net
+ipv4-c007-rao001-algar-isp.1.oca.nflxvideo.net
+ipv4-c011-rao001-algar-isp.1.oca.nflxvideo.net
 # HBO Max / Max
 max.com
 hbomax.com
